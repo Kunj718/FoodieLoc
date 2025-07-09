@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774380441825",
+    "firebase_url": "https://foodieloc-default-rtdb.firebaseio.com",
+    "project_id": "foodieloc",
+    "storage_bucket": "foodieloc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774380441825:android:934010bfd64accf56127a0",
+        "android_client_info": {
+          "package_name": "com.example.foodie_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774380441825-n2f51vi270gjupjvfc96fgjuvd2u1ggk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodie_loc",
+            "certificate_hash": "77e60689a6837a01ef53012ec13484fcc62d1616"
+          }
+        },
+        {
+          "client_id": "774380441825-mdhkbggt22vko20hiohs2ui9svk3053g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZRVwpDBRxh1EsuHF4Me6LEQSuZtuO_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774380441825-mdhkbggt22vko20hiohs2ui9svk3053g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

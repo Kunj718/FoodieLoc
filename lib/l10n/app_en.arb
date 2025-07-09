@@ -1,0 +1,51 @@
+{
+  "address": "Address",
+  "language": "Language",
+  "likedItems": "Liked Items",
+  "savedRestaurants": "Saved Restaurants",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "editAddress": "Edit Address",
+  "street1": "Street 1",
+  "street2": "Street 2",
+  "pincode": "Pincode",
+  "city": "City",
+  "state": "State",
+  "country": "Country",
+  "saveAddress": "Save Address",
+  "editProfile": "Edit Profile",
+  "name": "Name",
+  "email": "Email",
+  "saveChanges": "Save Changes",
+  "selectLanguage": "Select Language",
+  "profileSaved": "Profile saved successfully",
+
+
+  "aboutUs": "About Us",
+  "welcomeTitle": "Welcome to FoodieLoc",
+  "welcomeSubtitle": "Your companion to discover delicious food around you!",
+  "aboutDescription": "At FoodieLoc, we believe that the best meals are often found in the streets, corners, and local gems of every city.\n\nWith smart search features, location-based suggestions, and curated filters based on taste, price, and food type, FoodieLoc connects you to the right food spots effortlessly.",
+  "featuresTitle": "✨ Features",
+  "featuresList": "- Location-based search\n- Taste & price filters\n- Save and share restaurants\n- Light/dark mode\n- Simple modern UI",
+  "madeWithLove": "❤️ Made with love by FoodieLoc Team",
+
+
+  "contactAppName": "🏷️ FoodieLoc",
+  "contactAppNameDesc": "Display FoodieLoc with your logo at the top for branding.",
+  "contactTagline": "📄 Find Your Perfect Bite Nearby!",
+  "contactTaglineDesc": "“Find the best food spots around you in seconds!”",
+  "contactDescription": "📖 App Description\n\nWelcome to FoodieLoc — your companion to discover delicious food around you!\n\nAt FoodieLoc, we believe that the best meals are often found in the streets, corners, and local gems of every city.\n\nOur mission is to help food lovers like you explore the best local eateries, whether you're craving a hot sandwich, authentic Punjabi thali, aromatic biryani, or a cozy cup of coffee.\n\nWith smart search features, location-based suggestions, and curated filters based on taste, price, and food type, FoodieLoc connects you to the right food spots effortlessly.",
+  "contactMission": "🎯 Mission / Vision",
+  "contactMissionDesc": "Our mission is to connect people to local food gems using technology and taste-driven filters.",
+  "contactFeatures": "🌟 Features List",
+  "contactFeaturesList": "- Location-based search\n- Taste & price filters\n- Save and share restaurants\n- Light/dark mode\n- Simple modern UI",
+  "contactTeam": "🧑‍💻 Team / Creator Info",
+  "contactTeamDesc": "Made with ❤️ by Kunj718",
+  "contactEmail": "✉️ Contact Info",
+  "contactEmailDesc": "Contact us at foodie.support@gmail.com",
+  "contactPrivacy": "🔐 Privacy",
+  "contactPrivacyDesc": "We respect your privacy. We do not collect personal data without permission."
+
+
+
+}
